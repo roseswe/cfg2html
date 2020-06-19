@@ -2,6 +2,16 @@ Changelog
 =========
 
 
+
+6.41.0 (2020-06-17)
+-------------------
+
+Changes
+~~~~~~~
+- Merged all enhancements by JW. [roseswe]
+- Small changes to ReadMe file. [roseswe]
+
+=======
 (unreleased)
 ------------
 
@@ -17,6 +27,7 @@ Fix
 ~~~
 - Small bug fixes. [roseswe]
 - SUSE dection, beautifying. [roseswe]
+
 
 Other
 ~~~~~
